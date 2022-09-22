@@ -1,0 +1,245 @@
+#diaporama img {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    max-width: 99%;
+    max-height: 98%;
+    border: 1px solid black;
+    border-radius: 10px;
+    animation-duration: 90s;
+    animation-iteration-count: infinite;
+}
+
+.image1 {
+    animation-name: image1;
+}
+.image2 {
+    animation-name: image2;
+}
+.image3 {
+    animation-name: image3;
+}
+.image4 {
+    animation-name: image4;
+}
+.image5 {
+    animation-name: image5;
+}
+.image6 {
+    animation-name: image6;
+}
+.image7 {
+    animation-name: image7;
+}
+.image8 {
+    animation-name: image8;
+}
+.image9 {
+    animation-name: image9;
+}
+.image10 {
+    animation-name: image10;
+}
+.image11 {
+    animation-name: image11;
+}
+.image12 {
+    animation-name: image12;
+}
+
+
+
+
+
+@keyframes image1 {
+    0% {opacity: 1;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 1;}
+}
+
+@keyframes image2 {
+    0% {opacity: 0;}
+   8.33% {opacity: 1;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image3 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 1;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image4 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 1;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image5 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 1;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image6 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 1;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image7 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 1;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image8 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 1;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image9 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 1;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image10 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 1;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image11 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 1;}
+   91.63% {opacity: 0;}
+   100% {opacity: 0;}
+}
+
+@keyframes image12 {
+    0% {opacity: 0;}
+   8.33% {opacity: 0;}
+   16.66% {opacity: 0;}
+   24.99% {opacity: 0;}
+   33.32% {opacity: 0;}
+   41.65% {opacity: 0;}
+   49.98% {opacity: 0;}
+   58.31% {opacity: 0;}
+   66.64% {opacity: 0;}
+   74.97% {opacity: 0;}
+   83.3% {opacity: 0;}
+   91.63% {opacity: 1;}
+   100% {opacity: 0;}
+}
+

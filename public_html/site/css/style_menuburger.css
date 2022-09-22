@@ -1,0 +1,76 @@
+
+.menu{
+    
+     list-style: none;
+     margin: 0;
+     padding: 0;
+ }
+ 
+ .menu li{
+     display: inline;
+     margin: 15px;
+ }
+ 
+ .menu a{
+     color: black;
+     text-decoration: none;
+     transition: 1s;
+ }
+
+ .menu a:hover{
+  color: rgba(29, 21, 136, 0.897);
+  transform: scale(1.2);
+  transition: 1s;
+
+}
+
+ .voir-menu, .cacher-menu, #check {
+    display: none;
+ }
+
+@media screen and (max-width: 900px) {
+    .voir-menu, .cacher-menu {
+        display:block;
+        font-size: 30px;
+        cursor: pointer;
+        transition: 1s;
+    }
+
+    .voir-menu:hover, .cacher-menu:hover {
+        color: rgba(29, 21, 136, 0.897);
+        transition: 1s;
+    }
+
+    .menu{
+        position: fixed;
+        z-index: 100;
+        top:0;
+        right: -100%;
+        height: 100vh;
+        background-color: #f3f3f3;
+        width: 100%;
+        padding-top: 80px;
+        transition: 1.5s;
+        
+    }
+
+    #check:checked ~ .menu {
+      right: 0;  
+    }
+
+    .cacher-menu {
+        position: absolute;
+        top: 40px;
+        right: 40px;
+
+    }
+
+    .menu li {
+        display:block;
+        text-align: center;
+        margin-bottom: 35px;
+        border-bottom: 1px solid #ccc;
+
+    
+    }
+}

@@ -1,0 +1,111 @@
+
+#diaporama img {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    max-width: 99%;
+    max-height: 98%;
+    border: 1px solid black;
+    border-radius: 10px;
+    animation-duration: 25s;
+    animation-iteration-count: infinite;
+}
+
+.image1 {
+    animation-name: image1;
+}
+.image2 {
+    animation-name: image2;
+}
+.image3 {
+    animation-name: image3;
+}
+.image4 {
+    animation-name: image4;
+}
+.image5 {
+    animation-name: image5;
+}
+.image6 {
+    animation-name: image6;
+}
+.image7 {
+    animation-name: image7;
+}
+
+@keyframes image1 {
+    0% {opacity: 1;}
+    14% {opacity: 0;}
+    28% {opacity: 0;}
+    42% {opacity: 0;}
+    56% {opacity: 0;}
+    70% {opacity: 0;}
+    84% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+@keyframes image2 {
+    0% {opacity: 0;}
+    14% {opacity: 1;}
+    28% {opacity: 0;}
+    42% {opacity: 0;}
+    56% {opacity: 0;}
+    70% {opacity: 0;}
+    84% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+@keyframes image3 {
+    0% {opacity: 0;}
+    14% {opacity: 0;}
+    28% {opacity: 1;}
+    42% {opacity: 0;}
+    56% {opacity: 0;}
+    70% {opacity: 0;}
+    84% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+@keyframes image4 {
+    0% {opacity: 0;}
+    14% {opacity: 0;}
+    28% {opacity: 0;}
+    42% {opacity: 1;}
+    56% {opacity: 0;}
+    70% {opacity: 0;}
+    84% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+@keyframes image5 {
+    0% {opacity: 0;}
+    14% {opacity: 0;}
+    28% {opacity: 0;}
+    42% {opacity: 0;}
+    56% {opacity: 1;}
+    70% {opacity: 0;}
+    84% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+@keyframes image6 {
+    0% {opacity: 0;}
+    14% {opacity: 0;}
+    28% {opacity: 0;}
+    42% {opacity: 0;}
+    56% {opacity: 0;}
+    70% {opacity: 1;}
+    84% {opacity: 0;}
+    100% {opacity: 0;}
+}
+
+@keyframes image7 {
+    0% {opacity: 0;}
+    14% {opacity: 0;}
+    28% {opacity: 0;}
+    42% {opacity: 0;}
+    56% {opacity: 0;}
+    70% {opacity: 0;}
+    84% {opacity: 1;}
+    100% {opacity: 0;}
+}
