@@ -45,7 +45,170 @@ section {
         height: 100vh;
 }
     
+    /*odense*/
 
+    #q1 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/1.jpg);
+    }
+    
+    #q2 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/2.jpg);
+    }
+    
+    #q3 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/3.jpg);
+    }
+    
+    #q4 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/4.jpg);
+    }
+    
+    #q5 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/5.jpg);
+    }
+    
+    #q6 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/6.jpg);
+    }
+    
+    #q7 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/7.jpg);
+    }
+    
+    #q8 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/8.jpg);
+    }
+    
+    #q9 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/9.jpg);
+    }
+    
+    #q10 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/10.jpg);
+    }
+    
+    #q11 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/11.jpg);
+    }
+    
+    #q12 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/12.jpg);
+    }
+    
+    #q13 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/13.jpg);
+    }
+    
+    #q14 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/14.jpg);
+    }
+    
+    #q15 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/15.jpg);
+    }
+    
+    #q16 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/16.jpg);
+    }
+    
+    #q17 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/17.jpg);
+    }
+    
+    #q18 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/18.jpg);
+    }
+    
+    #q19 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/19.jpg);
+    }
+    
+    #q20 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/20.jpg);
+    }
+
+    #q21 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/21.jpg);
+    }
+
+     /*odense*/
+
+
+     /*amsterdam*/
+
+     #c1 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/1.jpg);
+    }
+    
+    #c2 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/2.jpg);
+    }
+    
+    #c3 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/3.jpg);
+    }
+    
+    #c4 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/4.jpg);
+    }
+    
+    #c5 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/5.jpg);
+    }
+    
+    #c6 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/6.jpg);
+    }
+    
+    #c7 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/7.jpg);
+    }
+    
+    #c8 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/8.jpg);
+    }
+    
+    #c9 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/9.jpg);
+    }
+    
+    #c10 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/10.jpg);
+    }
+    
+    #c11 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/11.jpg);
+    }
+    
+    #c12 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/12.jpg);
+    }
+    
+    #c13 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/13.jpg);
+    }
+    
+    #c14 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/14.jpg);
+    }
+    
+    #c15 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/15.jpg);
+    }
+    
+    #c16 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/16.jpg);
+    }
+    
+    #c17 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/17.jpg);
+    }
+    
+    #c18 {
+        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/18.jpg);
+    }
+
+    /* amsterdam*/
 
 /*prague*/
 
@@ -267,225 +430,7 @@ section {
 
 /*Hulvea*/
 
-/*Prague*/
 
-#s1 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/1.jpg);
-}
-
-#s2 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/2.jpg);
-}
-
-#s3 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/3.jpg);
-}
-
-#s4 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/4.jpg);
-}
-
-#s5 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/5.jpg);
-}
-
-#s6 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/6.jpg);
-}
-
-#s7 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/7.jpg);
-}
-
-#s8 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/8.jpg);
-}
-
-#s9 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/9.jpg);
-}
-
-#s10 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/10.jpg);
-}
-
-#s11 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/11.jpg);
-}
-
-#s12 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/12.jpg);
-}
-
-#s13 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/13.jpg);
-}
-
-#s14 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/14.jpg);
-}
-
-#s15 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/15.jpg);
-}
-
-#s16 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/16.jpg);
-}
-
-#s17 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/17.jpg);
-}
-
-#s18 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/18.jpg);
-}
-
-#s19 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/19.jpg);
-}
-
-#s20 {
-    background-image: url(../paralaxe/Photo_paralaxe/prague_paralaxe/20.jpg);
-}
-
-/*prague*/
-
-/*brno*/
-
-#t1 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/1.jpg);
-}
-
-#t2 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/2.jpg);
-}
-
-#t3 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/3.jpg);
-}
-
-#t4 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/4.jpg);
-}
-
-#t5 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/5.jpg);
-}
-
-#t6 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/6.jpg);
-}
-
-#t7 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/7.jpg);
-}
-
-#t8 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/8.jpg);
-}
-
-#t9 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/9.jpg);
-}
-
-#t10 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/10.jpg);
-}
-
-#t11 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/11.jpg);
-}
-
-#t12 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/12.jpg);
-}
-
-#t13 {
-background-image: url(../paralaxe/Photo_paralaxe/brno_paralaxe/13.jpg);
-}
-
-/*brno*/
-
-/*Hulvea*/
-
-#p1 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/1.jpg);
-}
-
-#p2 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/2.jpg);
-}
-
-#p3 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/3.jpg);
-}
-
-#p4 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/4.jpg);
-}
-
-#p5 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/5.jpg);
-}
-
-#p6 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/6.jpg);
-}
-
-#p7 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/7.jpg);
-}
-
-#p8 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/8.jpg);
-}
-
-#p9 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/9.jpg);
-}
-
-#p10 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/10.jpg);
-}
-
-#p11 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/11.jpg);
-}
-
-#p12 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/12.jpg);
-}
-
-#p13 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/13.jpg);
-}
-
-#p14 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/14.jpg);
-}
-
-#p15 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/15.jpg);
-}
-
-#p16 {
-background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/16.jpg);
-}
-
-#p17 {
-    background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/17.jpg);
-}
-    
-#p18 {
-    background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/18.jpg);
-}
-    
-#p19 {
-    background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/19.jpg);
-}
-
-/*Hulvea*/
 
 /*Bruxelles*/
 
@@ -1266,168 +1211,6 @@ background-image: url(../paralaxe/Photo_paralaxe/hulvea_paralaxe/16.jpg);
 
     /*Faro plage*/
 
-    /*odense*/
-
-    #q1 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/1.jpg);
-    }
-    
-    #q2 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/2.jpg);
-    }
-    
-    #q3 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/3.jpg);
-    }
-    
-    #q4 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/4.jpg);
-    }
-    
-    #q5 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/5.jpg);
-    }
-    
-    #q6 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/6.jpg);
-    }
-    
-    #q7 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/7.jpg);
-    }
-    
-    #q8 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/8.jpg);
-    }
-    
-    #q9 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/9.jpg);
-    }
-    
-    #q10 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/10.jpg);
-    }
-    
-    #q11 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/11.jpg);
-    }
-    
-    #q12 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/12.jpg);
-    }
-    
-    #q13 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/13.jpg);
-    }
-    
-    #q14 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/14.jpg);
-    }
-    
-    #q15 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/15.jpg);
-    }
-    
-    #q16 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/16.jpg);
-    }
-    
-    #q17 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/17.jpg);
-    }
-    
-    #q18 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/18.jpg);
-    }
-    
-    #q19 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/19.jpg);
-    }
-    
-    #q20 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/20.jpg);
-    }
-
-    #q21 {
-        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/21.jpg);
-    }
-
-     /*odense*/
-
-
-     /*amsterdam*/
-
-     #c1 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/1.jpg);
-    }
-    
-    #c2 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/2.jpg);
-    }
-    
-    #c3 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/3.jpg);
-    }
-    
-    #c4 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/4.jpg);
-    }
-    
-    #c5 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/5.jpg);
-    }
-    
-    #c6 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/6.jpg);
-    }
-    
-    #c7 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/7.jpg);
-    }
-    
-    #c8 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/8.jpg);
-    }
-    
-    #c9 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/9.jpg);
-    }
-    
-    #c10 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/10.jpg);
-    }
-    
-    #c11 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/11.jpg);
-    }
-    
-    #c12 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/12.jpg);
-    }
-    
-    #c13 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/13.jpg);
-    }
-    
-    #c14 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/14.jpg);
-    }
-    
-    #c15 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/15.jpg);
-    }
-    
-    #c16 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/16.jpg);
-    }
-    
-    #c17 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/17.jpg);
-    }
-    
-    #c18 {
-        background-image: url(../paralaxe/Photo_paralaxe/hollande_paralaxe/18.jpg);
-    }
 
 
 
