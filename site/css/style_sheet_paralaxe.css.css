@@ -7,7 +7,6 @@ body {
     background-position: center;
     background-attachment: fixed;
     height: 100vh;
-
     margin: 0;
     padding: 0;
     font-family: arial;
@@ -50,7 +49,7 @@ section {
     #q1 {
         background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/1.jpg);
     }
-    
+
     #q2 {
         background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/2.jpg);
     }
@@ -129,6 +128,18 @@ section {
 
     #q21 {
         background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/21.jpg);
+    }
+
+    #q22 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/22.jpg);
+    }
+    
+    #q23 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/23.jpg);
+    }
+
+    #q24 {
+        background-image: url(../paralaxe/Photo_paralaxe/danemark_paralaxe/24.jpg);
     }
 
      /*odense*/
