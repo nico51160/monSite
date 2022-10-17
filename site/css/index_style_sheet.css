@@ -124,27 +124,34 @@ footer {
 
 @media screen and (max-width: 850px) {
     body {
-        display: block;
-        margin-bottom: 15px;
-        
-        
+        height: fit-content;
+        grid-template-rows: 0.5fr 1fr 12fr 10fr 0.5fr;
     }
     
-    .article1 div img {
+    .article1 div img,  .article2 div img  {
       float: none;
       max-width: 80%;
       margin-left: 10%;
+      margin-top: 10%;
     }
 
-    .article1 div {
-        overflow: auto;
+    .article1 div, .article2 div {
+        overflow: visible;
+        margin-bottom: 5px;
     }
 
-    .article1 div p {
+    .article1 div p, .article2 div p {
         margin-left: 10%;
         margin-right: 10%;
         letter-spacing: 1px;
         justify-content: center;
+        text-align: justify;
+    }
+
+    footer {
+        position: static;
+      
+       
     }
 
 }  
