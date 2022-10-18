@@ -9,7 +9,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     font-family: arial;
-    font-size: 1.1rem;
+    font-size: 1rem;
     display: grid;
     height: 100vh;
     grid-template-columns: 1fr;
@@ -57,6 +57,7 @@ div {
     height: 90%;
     border: 1px solid black;
     border-radius: 15px;
+    font-size: 1.1rem;
     overflow: auto;
 }
 
@@ -147,6 +148,17 @@ footer {
         letter-spacing: 1px;
         justify-content: center;
         text-align: justify;
+        font-size: 1rem;
     }
 
- }  
+
+}  
+
+
+ @media screen and (max-width: 440px) {
+          
+    body {
+        font-size: 0.9rem;
+        grid-template-rows: 0.5fr 0.5fr 12.5fr 10.5fr 0.5fr;
+    }
+}

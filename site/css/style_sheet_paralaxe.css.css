@@ -10,39 +10,51 @@ body {
     margin: 0;
     padding: 0;
     font-family: arial;
-    font-size: 19px;
-    display: grid;
-    height: 100vh;
-    grid-template-columns: 1fr 10fr;
-    grid-template-areas: 
-              "nav article"
-              "nav article"
-    ;
+    font-size: 1rem;
+ 
 }
 
 nav {
-    border-radius: 15px;
-    background-color: #f3e5ce;
+    background-color: #f3f3f3;
+    border-bottom: 1px solid black;
+    width: 100%;
+    text-align: right;
+    padding: 10px;
     position: fixed;
-    font-size: 90%;
-    grid-area: nav;
+    z-index: 10;
 }
+
 
 nav:hover {
     font-size: 95%;
 }
 
-article {
-    grid-area: article;
-}
+
 
 section {
+       
         background-size: 63%;
         background-repeat: no-repeat;
         background-position: center;
         background-attachment: fixed;
         height: 100vh;
 }
+
+
+   
+@media screen and (max-width: 750px) {
+    section {
+       
+        background-size: 100%;
+    }
+
+    
+}
+
+
+
+
+
     
 /*odense*/
 

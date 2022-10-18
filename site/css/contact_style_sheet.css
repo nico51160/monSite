@@ -9,7 +9,7 @@ body {
     background-size: cover;
     background-attachment: fixed;
     font-family: arial;
-    font-size: 19px;
+    font-size: 1rem;
     display: grid;
     height: 100vh;
     grid-gap: 5%;
@@ -48,6 +48,7 @@ h1 {
      margin-left: 25%;
      margin-right: 25%;
      background-color: rgba(255, 255, 255, 0.6);
+     box-shadow: 3px 3px 2px black;
      border-radius: 15px;
      border: solid 1px;
      display: flex;
@@ -106,8 +107,6 @@ textarea:hover, input[type="name"]:hover, input[type="email"]:hover, input[type=
 
 }
 
-
-
 /**article**/ 
 
 footer {
@@ -121,4 +120,18 @@ footer {
     background-color: #f3f3f3;
     grid-area: footer;
 }
+
+@media screen and (max-width: 440px) {
+    textarea, input[type="name"], input[type="email"] {
+       padding-top: 10px;
+       padding-bottom: 10px;
+       margin-bottom: 5px;
+    }
+
+    input[type="submit"] {
+          padding-top: 10px;
+       padding-bottom: 20px;
+    }
+
+    }
 
