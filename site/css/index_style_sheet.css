@@ -159,6 +159,8 @@ footer {
           
     body {
         font-size: 0.9rem;
-        grid-template-rows: 0.5fr 0.5fr 12.5fr 10.5fr 0.5fr;
+        grid-template-rows: 0.5fr 0.5fr 14fr 12fr 0.5fr;
     }
 }
+
+
