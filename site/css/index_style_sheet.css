@@ -57,7 +57,7 @@ div {
     height: 90%;
     border: 1px solid black;
     border-radius: 15px;
-    font-size: 1.1rem;
+    font-size: 1.07rem;
     overflow: auto;
 }
 
@@ -127,7 +127,7 @@ footer {
 @media screen and (max-width: 850px) {
     body {
         height: fit-content;
-        grid-template-rows: 0.5fr 1fr 12fr 10fr 0.5fr;
+        grid-template-rows: 0.5fr 1fr 14fr 12fr 0.5fr;
     }
     
     .article1 div img,  .article2 div img  {
@@ -155,11 +155,21 @@ footer {
 }  
 
 
- @media screen and (max-width: 440px) {
+ @media screen and (max-width: 400px) {
           
     body {
         font-size: 0.9rem;
-        grid-template-rows: 0.5fr 0.5fr 14fr 12fr 0.5fr;
+        grid-template-rows: 0.5fr 0.5fr 18fr 13fr 0.5fr;
+        box-sizing: border-box;
+    }
+
+    div {
+        box-sizing: border-box;
+   
+    }
+
+    .article1, .article2 {
+        box-sizing: border-box;
     }
 }
 
